@@ -1,0 +1,75 @@
+nav{
+    display: block;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(102, 102, 102);
+}
+
+.NavBar {
+    display: inline-block;
+    background-color: rgb(56, 58, 53); 
+    padding: 8px 20px 8px 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ColumnBlue {
+    height: 800px;
+    width: 29%;
+    float: left;
+    background-color: rgb(174, 174, 177)
+}
+
+.ColumnGreen {
+    height: 800px;
+    width: 70%;
+    float: left;
+    background-color: lightgray;
+}
+
+.OrangeSquare {
+    height: 25%;
+    background-color:#dddddd; 
+}
+
+.DarkOrangeRec {
+    height: 75%;
+    background-color: #dddddd; 
+}
+
+.profile {
+    display: block;
+    height: 70%;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.petName {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.PetStatsTitle{
+    padding: 20px 20px 20px 10px;
+    font-weight: bold;
+}
+
+.PetStat{
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bioImage{
+    float: left;
+    margin: 20px;
+}
+.bio{
+   padding: 20px; 
+}
+.galleryImage{
+    display: inline-block;
+    height: 100px;
+}
+.Gallery{
+   margin: auto;
+}
